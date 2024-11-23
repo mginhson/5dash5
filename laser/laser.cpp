@@ -58,6 +58,6 @@ int main(void){
         faces += 1;
         spacedLine.resize(0);
     }
-    
+    cout << faces;
     return 0;
 }
